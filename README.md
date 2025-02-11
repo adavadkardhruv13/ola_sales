@@ -41,4 +41,6 @@ The Power BI dashboard includes various interactive reports and charts to visual
 2. Use Power BI to connect to the database or CSV files and load data.
 3. Import the Power BI report file to visualize and analyze the results.
 4. Customize the dashboards based on your analysis needs.
+<img width="626" alt="image" src="https://github.com/user-attachments/assets/c313c5e0-e738-4535-a0a3-779c00d2ca10" />
+
 
