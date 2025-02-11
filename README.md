@@ -42,3 +42,5 @@ The Power BI dashboard includes various interactive reports and charts to visual
 3. Import the Power BI report file to visualize and analyze the results.
 4. Customize the dashboards based on your analysis needs.
 
+   ![Power BI Dashboard]("C:\Users\Dhruv Adavadkar\Downloads\dashboard1.png")
+
